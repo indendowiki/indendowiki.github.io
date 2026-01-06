@@ -39,4 +39,4 @@ editPost:
 
 # The Wiki is real!
 
-pages can be added by simply writing them in markdown format and creating a pull request (or asking one of the maintainers to add it in).
+pages can be added by simply writing them in markdown format and creating a pull request (or asking one of the maintainers to add it in). thus
